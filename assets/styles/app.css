@@ -1,0 +1,3 @@
+@import "~bootstrap";
+/* https://stackoverflow.com/questions/51571170/how-to-add-fontawesome-5-to-symfony-4-using-webpack-encore */
+@import "~font-awesome";
